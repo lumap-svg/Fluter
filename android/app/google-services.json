@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "208253993337",
+    "project_id": "navigater-d4f2e",
+    "storage_bucket": "navigater-d4f2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208253993337:android:38a1a5ebc2c5a10246afa8",
+        "android_client_info": {
+          "package_name": "com.example.brew_rounds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ul-21HZib3amy51Rja97wjpSbboYLjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
